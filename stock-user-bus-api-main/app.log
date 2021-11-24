@@ -1,0 +1,16 @@
+2021-11-23T14:07:33.266Z [[31merror[39m] : in createUserInfo error {"pid":13148,"hostname":"PUKAVDTMS10-3","context":"UserController","extra":[{"key":"value"}]}
+2021-11-23T14:07:33.271Z [[31merror[39m] : in createUserInfo handle error {"pid":13148,"hostname":"PUKAVDTMS10-3","context":"CreateUserInfo","extra":[{"key":"value"}]}
+2021-11-23T14:07:33.269Z [[33mwarn[39m] : in createUserInfo warn {"pid":13148,"hostname":"PUKAVDTMS10-3","context":"UserController","extra":[null]}
+2021-11-23T14:07:33.273Z [[33mwarn[39m] : in createUserInfo handle warn {"pid":13148,"hostname":"PUKAVDTMS10-3","context":"CreateUserInfo","extra":[null]}
+2021-11-24T04:53:33.581Z [[31merror[39m] : in createUserInfo error {"pid":7508,"hostname":"PUKAVDTMS10-3","context":"UserController","extra":[{"key":"value"}]}
+2021-11-24T04:53:33.594Z [[31merror[39m] : in createUserInfo handle error {"pid":7508,"hostname":"PUKAVDTMS10-3","context":"CreateUserInfo","extra":[{"key":"value"}]}
+2021-11-24T04:53:33.588Z [[33mwarn[39m] : in createUserInfo warn {"pid":7508,"hostname":"PUKAVDTMS10-3","context":"UserController","extra":[null]}
+2021-11-24T04:53:33.613Z [[33mwarn[39m] : in createUserInfo handle warn {"pid":7508,"hostname":"PUKAVDTMS10-3","context":"CreateUserInfo","extra":[null]}
+2021-11-24T04:54:05.533Z [[31merror[39m] : in createUserInfo error {"pid":7508,"hostname":"PUKAVDTMS10-3","context":"UserController","extra":[{"key":"value"}]}
+2021-11-24T04:54:05.536Z [[31merror[39m] : in createUserInfo handle error {"pid":7508,"hostname":"PUKAVDTMS10-3","context":"CreateUserInfo","extra":[{"key":"value"}]}
+2021-11-24T04:54:05.534Z [[33mwarn[39m] : in createUserInfo warn {"pid":7508,"hostname":"PUKAVDTMS10-3","context":"UserController","extra":[null]}
+2021-11-24T04:54:05.537Z [[33mwarn[39m] : in createUserInfo handle warn {"pid":7508,"hostname":"PUKAVDTMS10-3","context":"CreateUserInfo","extra":[null]}
+2021-11-24T04:55:31.051Z [[31merror[39m] : in createUserInfo error {"pid":7508,"hostname":"PUKAVDTMS10-3","context":"UserController","extra":[{"key":"value"}]}
+2021-11-24T04:55:31.054Z [[31merror[39m] : in createUserInfo handle error {"pid":7508,"hostname":"PUKAVDTMS10-3","context":"CreateUserInfo","extra":[{"key":"value"}]}
+2021-11-24T04:55:31.052Z [[33mwarn[39m] : in createUserInfo warn {"pid":7508,"hostname":"PUKAVDTMS10-3","context":"UserController","extra":[null]}
+2021-11-24T04:55:31.055Z [[33mwarn[39m] : in createUserInfo handle warn {"pid":7508,"hostname":"PUKAVDTMS10-3","context":"CreateUserInfo","extra":[null]}
